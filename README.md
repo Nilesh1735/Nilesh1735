@@ -19,6 +19,7 @@
 </div>
 
 👨‍💻 About Me
+
 I am an AI/ML Engineer and GenAI Developer with a strong foundation in software engineering, specializing in building scalable, enterprise-grade intelligent systems. My expertise lies at the intersection of artificial intelligence, full-stack development, and product engineering.
 
 I architect robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain, LangGraph, and vector databases. With a product engineering mindset, I focus on deploying high-performance, resilient backend architectures that solve complex real-world problems.
@@ -156,7 +157,7 @@ Cisco
 
 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=dracula&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </div>
 
 📈 Contribution Activity
