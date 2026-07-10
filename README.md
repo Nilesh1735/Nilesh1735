@@ -187,7 +187,7 @@ Open To:
   - "AI Engineer Roles"
   - "GenAI Developer Positions"
   - "Collaborations on RAG Pipelines"
-  - 
+ 
 📫 Connect With Me
 <div align="center">
 <a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
