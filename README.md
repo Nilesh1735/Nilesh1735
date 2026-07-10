@@ -23,7 +23,6 @@ I am an AI/ML Engineer and GenAI Developer with a strong foundation in software 
 
 I architect robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain, LangGraph, and vector databases. With a product engineering mindset, I focus on deploying high-performance, resilient backend architectures that solve complex real-world problems.
 
-yaml
 
 Open To:
   - "AI Engineer Roles"
@@ -84,11 +83,10 @@ AI Product Engineering	Advanced	Pydantic, REST APIs, Async Operations, Fallback 
 
 🚀 Featured Projects
 💡 LumanGuide — Agentic RAG System
-💡 Contract Risk Analyser
-💡 Student Doubt Resolution Bot
+
 💼 Experience
 AI/ML Trainee | Technosavvys
-Date Range: 2023 – 2024
+Date Range: 2025 – 2026
 
 Professional overview focusing on the development and deployment of AI-driven applications, optimizing RAG pipelines, and building scalable backend architectures for enterprise solutions.
 
@@ -172,7 +170,6 @@ Cisco
 </div>
 
 🎯 Current Focus
-yaml
 
 Learning:
   - "Advanced Multi-Agent Orchestration"
