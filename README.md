@@ -148,11 +148,12 @@ Cisco
 </div>
 
 📊 GitHub Analytics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=9370DB&border_color=4B0082&hide_border=false" alt="Nilesh1735 Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh1735&layout=compact&theme=radical&title_color=8A2BE2&icon_color=9370DB&border_color=4B0082&hide_border=false" alt="Top Languages" height="180" />
-<br><br>
-<img src="https://streak-stats.demolab.com?user=Nilesh1735&theme=radical&fire=8A2BE2&border=4B0082&ring=8A2BE2&currStreakLabel=9370DB&sideLabels=9370DB&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nilesh1735&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=9370DB&border_color=4B0082&hide_border=false" alt="Nilesh1735 Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nilesh1735&layout=compact&theme=radical&title_color=8A2BE2&icon_color=9370DB&border_color=4B0082&hide_border=false" alt="Top Languages" height="180" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=Nilesh1735&theme=radical&fire=8A2BE2&border=4B0082&ring=8A2BE2&currStreakLabel=9370DB&sideLabels=9370DB&currStreakNum=ffffff" alt="GitHub Streak" />
 </div>
 
 🏆 GitHub Trophies
