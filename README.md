@@ -30,6 +30,7 @@ Open To:
   - "GenAI Developer Positions"
   - "Collaborations on RAG Pipelines"
 
+
 🛠️ Tech Stack
 <div align="center">
 
@@ -139,6 +140,7 @@ Cisco
 
 </div>
 
+
 🏅 Coding Profiles
 <div align="center">
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
@@ -146,6 +148,7 @@ Cisco
 <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </div>
+
 
 📊 GitHub Analytics
 
@@ -156,20 +159,24 @@ Cisco
   <img src="https://streak-stats.demolab.com?user=Nilesh1735&theme=radical&fire=8A2BE2&border=4B0082&ring=8A2BE2&currStreakLabel=9370DB&sideLabels=9370DB&currStreakNum=ffffff" alt="GitHub Streak" />
 </div>
 
+
 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=dracula&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </div>
+
 
 📈 Contribution Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=radical&color=8A2BE2&line=9370DB&point=4B0082&area=true&hide_border=false" alt="Activity Graph" width="90%" />
 </div>
 
+
 🐍 Contribution Snake
 <div align="center">
 <img src="https://raw.githubusercontent.com/Nilesh1735/Nilesh1735/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
+
 
 🎯 Current Focus
 
@@ -186,6 +193,7 @@ Open To:
   - "AI Engineer Roles"
   - "GenAI Developer Positions"
   - "Collaborations on RAG Pipelines"
+
  
 📫 Connect With Me
 <div align="center">
