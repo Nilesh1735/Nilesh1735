@@ -79,7 +79,7 @@ OPEN_TO     =  AI Engineer Roles  +  GenAI Developer Positions
 | **LLM Integration** | OpenAI API, Claude API, Google Gemini, NVIDIA NIM, Ollama |
 | **AI Product Eng** | Senior | Pydantic, REST APIs, Async Operations, Fallback Architecture |
 | **Machine Learning** | Scikit-learn, TensorFlow, BERT, Hugging Face |
-| **Full Stack** | React, TypeScript, FastAPI, Streamlit |
+| **Full Stack** | TypeScript, FastAPI, Streamlit |
 
 </div>
 
@@ -113,7 +113,7 @@ An enterprise-grade, intelligent Retrieval-Augmented Generation (RAG) system pow
 | **Performance** | Zero-latency numeric fast-path; non-blocking chat history |
 | **Security** | JWT Authentication, rate limiting ready, environment-secured keys |
 | **Impact** | Streamlines SME routing and onboarding knowledge retrieval |
-| **Repo** | [View on GitHub](https://github.com/Nilesh1735) |
+| **Repo** | [View on GitHub](https://github.com/Nilesh1735/LumanGuide-Onboarding-Illuminated-) |
 
 </details>
 
