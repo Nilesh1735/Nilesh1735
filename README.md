@@ -1,23 +1,22 @@
 <a href="https://github.com/Nilesh1735">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=260&section=header&text=Nilesh%20Raj&desc=%0AAI%2FML%20Engineer%20%7C%20GenAI%20Developer&animation=twinkling&fontColor=ffffff&fontSize=42&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3440,100:88c0d0&height=260&section=header&text=Nilesh%20Raj&desc=%0AAI%2FML%20Engineer%20%7C%20GenAI%20Developer&animation=twinkling&fontColor=eceff4&descColor=8fbcbb&fontSize=42&descSize=18" width="100%" />
 </a>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer;GenAI+Developer;RAG+Pipeline+Architect;LangChain+%7C+LangGraph+%7C+FAISS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer;GenAI+Developer;RAG+Pipeline+Architect;LangChain+%7C+LangGraph+%7C+FAISS" alt="Typing SVG" />
 <br><br>
-<img src="https://img.shields.io/badge/BCA%20Graduate-AI%20%26%20DS-9370DB?style=flat-square" alt="Academic" />
-<img src="https://img.shields.io/badge/Location-India-9370DB?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/BCA%20Graduate-AI%20%26%20DS-88c0d0?style=flat-square&logoColor=2e3440" alt="Academic" />
+<img src="https://img.shields.io/badge/Location-India-8fbcbb?style=flat-square&logo=googlemaps&logoColor=2e3440" alt="Location" />
 <br><br>
-<a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/Portfolio-View-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/Portfolio-View-88c0d0?style=for-the-badge&logo=vercel&logoColor=2e3440" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5e81ac?style=for-the-badge&logo=linkedin&logoColor=eceff4" alt="LinkedIn" /></a>
+<a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8fbcbb?style=for-the-badge&logo=gmail&logoColor=2e3440" alt="Email" /></a>
+<a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-2e3440?style=for-the-badge&logo=github&logoColor=eceff4" alt="GitHub" /></a>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Nilesh1735&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Nilesh1735?label=Followers&style=flat-square&color=9370DB" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Nilesh1735?label=Total%20Stars&style=flat-square&color=4B0082" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Nilesh1735&label=Profile%20Views&color=88c0d0&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Nilesh1735?label=Followers&style=flat-square&color=8fbcbb" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Nilesh1735?label=Total%20Stars&style=flat-square&color=5e81ac" alt="Stars" />
 </div>
-
 > whoami
 AI/ML Engineer specializing in building scalable, enterprise-grade intelligent systems. By day: architecting robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain and LangGraph. By night: building autonomous multi-agent systems and exploring local LLM architectures.
 
