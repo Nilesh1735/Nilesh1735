@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/github/followers/Nilesh1735?label=Followers&style=flat-square&color=8fbcbb" alt="Followers" />
 <img src="https://img.shields.io/github/stars/Nilesh1735?label=Total%20Stars&style=flat-square&color=5e81ac" alt="Stars" />
 </div>
+
 > whoami
 AI/ML Engineer specializing in building scalable, enterprise-grade intelligent systems. By day: architecting robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain and LangGraph. By night: building autonomous multi-agent systems and exploring local LLM architectures.
 
@@ -48,9 +49,9 @@ AI/ML Engineer specializing in building scalable, enterprise-grade intelligent s
 
 > cat specialty-badges.sh
 <div align="center">
-<img src="https://img.shields.io/badge/Agentic_AI-Expert-FF7B72?style=for-the-badge&logo=openai&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-79C0FF?style=for-the-badge&logo=langchain&logoColor=0D1117" />
-<img src="https://img.shields.io/badge/LLMOps-Observability-C9D1D9?style=for-the-badge&logo=datadog&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Agentic_AI-Expert-88c0d0?style=for-the-badge&logo=openai&logoColor=2e3440" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-8fbcbb?style=for-the-badge&logo=langchain&logoColor=2e3440" />
+<img src="https://img.shields.io/badge/LLMOps-Observability-d8dee9?style=for-the-badge&logo=datadog&logoColor=2e3440" />
 </div>
 
 > cat expertise.json
@@ -95,37 +96,37 @@ Detail
 
 > git log --oneline /education
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/BCA-AI%20%26%20Data%20Science-FF7B72?style=for-the-badge&logo=googleclassroom&logoColor=0D1117" /></a>
+<a href="#"><img src="https://img.shields.io/badge/BCA-AI%20%26%20Data%20Science-88c0d0?style=for-the-badge&logo=googleclassroom&logoColor=2e3440" /></a>
 </div>
 
 > git stats --global
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&hide_border=true&title_color=FF7B72&icon_color=79C0FF&text_color=C9D1D9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh1735&hide_border=true&background=0D1117&stroke=FF7B72&ring=79C0FF&fire=FF7B72&currStreakLabel=FF7B72" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh1735&layout=compact&hide_border=true&title_color=FF7B72&text_color=C9D1D9&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&hide_border=true&title_color=88c0d0&icon_color=8fbcbb&text_color=d8dee9&bg_color=2e3440" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh1735&hide_border=true&background=2e3440&stroke=88c0d0&ring=88c0d0&fire=8fbcbb&currStreakLabel=88c0d0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh1735&layout=compact&hide_border=true&title_color=88c0d0&text_color=d8dee9&bg_color=2e3440" />
 
 </div>
 
 > trophy-case --display
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 > activity-graph --timeline
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=github&hide_border=true&area=true&color=79C0FF&line=FF7B72&point=C9D1D9&bg_color=0D1117" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=nord&hide_border=true&area=true&color=88c0d0&line=8fbcbb&point=d8dee9&bg_color=2e3440" width="90%" />
 </div>
 
 > contribution-report --detailed
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh1735&theme=github_dark" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh1735&theme=nord_dark" width="90%" />
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilesh1735&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nilesh1735&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilesh1735&theme=nord_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nilesh1735&theme=nord_dark" />
 <br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nilesh1735&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nilesh1735&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nilesh1735&theme=nord_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nilesh1735&theme=nord_dark" />
 </div>
 
 > ./snake-animation.sh
@@ -167,6 +168,6 @@ Detail
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:FF7B72&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2e3440,100:88c0d0&height=120&section=footer" width="100%" />
 </div>
 ```
