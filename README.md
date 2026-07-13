@@ -38,22 +38,28 @@ OPEN_TO     =  AI Engineer Roles  +  GenAI Developer Positions
 
 **[ Languages ]**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </div>
 
-**[ AI / ML & Data ]**
+**[ AI / ML & GenAI ]**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </div>
 
-**[ Backend & Data ]**
+**[ Backend & Databases ]**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,mysql,redis&theme=dark" />
 </div>
 
 **[ Cloud, DevOps & Infra ]**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,git&theme=dark" />
 </div>
 
 ### `> cat specialty-badges.sh`
@@ -66,14 +72,14 @@ OPEN_TO     =  AI Engineer Roles  +  GenAI Developer Positions
 ### `> cat expertise.json`
 <div align="center">
  
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Agentic AI** | &#9608;&#9608;&#9608;&#9608;&#9608; Expert | LangGraph, CrewAI, ReAct Framework, Multi-Agent Systems |
-| **RAG Pipelines** | &#9608;&#9608;&#9608;&#9608;&#9608; Expert | LangChain, FAISS, Vector Stores, Dynamic Query Routing |
-| **LLM Integration** | &#9608;&#9608;&#9608;&#9608;&#9608; Expert | OpenAI API, Claude API, Google Gemini, NVIDIA NIM, Ollama |
-| **AI Product Eng** | &#9608;&#9608;&#9608;&#9608;&#9607; Senior | Pydantic, REST APIs, Async Operations, Fallback Architecture |
-| **Machine Learning** | &#9608;&#9608;&#9608;&#9608;&#9607; Senior | Scikit-learn, TensorFlow, BERT, Hugging Face |
-| **Full Stack** | &#9608;&#9608;&#9608;&#9608;&#9607; Senior | React, TypeScript, FastAPI, Streamlit |
+| Domain | Details |
+| :--- | :--- |
+| **Agentic AI** | LangGraph, CrewAI, ReAct Framework, Multi-Agent Systems |
+| **RAG Pipelines** | LangChain, FAISS, Vector Stores, Dynamic Query Routing |
+| **LLM Integration** | OpenAI API, Claude API, Google Gemini, NVIDIA NIM, Ollama |
+| **AI Product Eng** | Senior | Pydantic, REST APIs, Async Operations, Fallback Architecture |
+| **Machine Learning** | Scikit-learn, TensorFlow, BERT, Hugging Face |
+| **Full Stack** | React, TypeScript, FastAPI, Streamlit |
 
 </div>
 
@@ -143,15 +149,10 @@ Engineered and optimized Retrieval-Augmented Generation (RAG) pipelines using La
 ### `> git stats --global`
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&hide_border=true&title_color=88c0d0&icon_color=8fbcbb&text_color=d8dee9&bg_color=2e3440" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh1735&hide_border=true&background=2e3440&stroke=88c0d0&ring=88c0d0&fire=8fbcbb&currStreakLabel=88c0d0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh1735&layout=compact&hide_border=true&title_color=88c0d0&text_color=d8dee9&bg_color=2e3440" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nilesh1735&theme=nord_dark" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Nilesh1735&hide_border=true&background=2e3440&stroke=88c0d0&ring=88c0d0&fire=8fbcbb&currStreakLabel=88c0d0&sideLabels=d8dee9&currStreakNum=d8dee9&dates=d8dee9" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilesh1735&theme=nord_dark" />
 
-</div>
-
-### `> trophy-case --display`
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 ### `> activity-graph --timeline`
@@ -181,9 +182,9 @@ learning:
   - Agentic AI architectures & multi-agent orchestration
   - LLM Fine-tuning & RAG Optimization
 
-building:
+build:
   - AutoBrowse AI  # Autonomous Web RPA & Lead Gen Crew
-  - LumanGuide     # Agentic RAG System & Team Navigator
+  - LumanGuide (Onboarding, Illuminated)
 
 exploring:
   - Real-time voice AI & low-latency LLM pipelines
