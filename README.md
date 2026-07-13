@@ -23,7 +23,8 @@ I am an AI/ML Engineer and GenAI Developer with a strong foundation in software 
 
 I architect robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain, LangGraph, and vector databases. With a product engineering mindset, I focus on deploying high-performance, resilient backend architectures that solve complex real-world problems.
 
- $ cat .profileROLE     =  AI / ML Engineer | GenAI DeveloperEXP      =  BCA Graduate (AI & DS) | Former AI/ML TraineeDOMAIN   =  Artificial Intelligence  |  GenAI  |  Full StackSTACK    =  Python  |  LangChain  |  LangGraph  |  FastAPI  |  ReactOPEN_TO  =  AI Engineer Roles  |  GenAI Developer Positions
+ $ cat .profile
+ ROLE     =  AI / ML Engineer | GenAI DeveloperEXP      =  BCA Graduate (AI & DS) | Former AI/ML TraineeDOMAIN   =  Artificial Intelligence  |  GenAI  |  Full StackSTACK    =  Python  |  LangChain  |  LangGraph  |  FastAPI  |  ReactOPEN_TO  =  AI Engineer Roles  |  GenAI Developer Positions
 > ls /tech-stack
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,tensorflow,postgres&theme=dark" />
@@ -124,6 +125,7 @@ open_to:
   - "GenAI Developer Positions"
   - "Collaborations on RAG Pipelines"
 > establish_connection()
+
 <div align="center">
 <a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
