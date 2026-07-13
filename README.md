@@ -28,7 +28,7 @@ $ cat .profile
 ROLE        =  AI / ML Engineer | GenAI Developer
 EXP         =  BCA Graduate (AI & DS) | Former AI/ML Trainee
 DOMAIN      =  Artificial Intelligence  |  GenAI  |  Full Stack
-STACK       =  Python  |  LangChain  |  LangGraph  |  FastAPI  |  React
+STACK       =  Python  |  LangChain  |  LangGraph  |  FastAPI  
 AI_INFRA    =  FAISS  |  Ollama  |  NVIDIA NIM  |  TensorFlow
 LOCATION    =  India
 OPEN_TO     =  AI Engineer Roles  +  GenAI Developer Positions
@@ -119,7 +119,7 @@ An enterprise-grade, intelligent Retrieval-Augmented Generation (RAG) system pow
 
 ### `> cat experience.log`
 
-**[2023 → 2024]** **AI/ML Trainee — Technosavvys**
+**[Feb - May 2026]** **AI/ML Trainee — Technosavvys Education Technology**
 
 Engineered and optimized Retrieval-Augmented Generation (RAG) pipelines using LangChain and FAISS.
 
@@ -206,7 +206,7 @@ open_to:
 <br>
 
 <div align="center">
-  <i>// by day: enterprise AI engineer  |  by night: shipping agentic systems & autonomous pipelines</i>
+  <i>by day: enterprise AI engineer  |  by night: shipping agentic systems & autonomous pipelines</i>
 </div>
 
 <br>
