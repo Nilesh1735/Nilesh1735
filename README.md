@@ -106,7 +106,6 @@ Academic	Graduated with a BCA in AI & Data Science
 </div>
 
 > cat current-focus.yaml
-yaml
 
 learning:
   - "Advanced Multi-Agent Orchestration"
