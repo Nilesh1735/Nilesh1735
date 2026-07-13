@@ -19,114 +19,123 @@
 </div>
 
 > whoami
+AI/ML Engineer specializing in building scalable, enterprise-grade intelligent systems. By day: architecting robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain and LangGraph. By night: building autonomous multi-agent systems and exploring local LLM architectures.
 
-I am an AI/ML Engineer and GenAI Developer with a strong foundation in software engineering, specializing in building scalable, enterprise-grade intelligent systems. My expertise lies at the intersection of artificial intelligence, full-stack development, and product engineering.
-
-I architect robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain, LangGraph, and vector databases. With a product engineering mindset, I focus on deploying high-performance, resilient backend architectures that solve complex real-world problems.
-
- $ cat .profile
- ROLE     =  AI / ML Engineer | GenAI DeveloperEXP      =  BCA Graduate (AI & DS) | Former AI/ML TraineeDOMAIN   =  Artificial Intelligence  |  GenAI  |  Full StackSTACK    =  Python  |  LangChain  |  LangGraph  |  FastAPI  |  ReactOPEN_TO  =  AI Engineer Roles  |  GenAI Developer Positions
+ $ cat .profileROLE        =  AI / ML Engineer | GenAI DeveloperEXP         =  BCA Graduate (AI & DS) | Former AI/ML TraineeDOMAIN      =  Artificial Intelligence  |  GenAI  |  Full StackSTACK       =  Python  |  LangChain  |  LangGraph  |  FastAPI  |  ReactAI_INFRA    =  FAISS  |  Ollama  |  NVIDIA NIM  |  TensorFlowLOCATION    =  IndiaOPEN_TO     =  AI Engineer Roles  +  GenAI Developer Positions
 > ls /tech-stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,tensorflow,postgres&theme=dark" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,mongodb,sqlite&theme=dark" />
-</div>
-
-<br>
+[ Languages ]
 
 <div align="center">
-<img src="https://img.shields.io/badge/Agentic_AI-Expert-6355FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMOps-Observability-C6FF3B?style=for-the-badge&logo=datadog&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql&theme=dark" />
 </div>
 
-> cat expertise.md
+[ AI / ML & Data ]
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,sqlite&theme=dark" />
+</div>
+
+[ Backend & Data ]
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis&theme=dark" />
+</div>
+
+[ Cloud, DevOps & Infra ]
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+</div>
+
+> cat expertise.json
+<div align="center">
+
 Domain
 Proficiency
 Details
-Large Language Models	Advanced	OpenAI API, Claude API, Hugging Face, NVIDIA NIM
-Retrieval-Augmented Generation	Expert	LangChain, LangGraph, FAISS, Vector Databases
-Agentic Workflows	Advanced	ReAct Framework, Multi-Agent Systems, Tool Integration
-Machine Learning	Intermediate	Scikit-learn, TensorFlow, BERT, Pandas, NumPy
-AI Product Engineering	Advanced	Pydantic, REST APIs, Async Operations, Fallback Architecture
+Agentic AI	&#9608;&#9608;&#9608;&#9608;&#9608; Expert	LangGraph, CrewAI, ReAct Framework, Multi-Agent Systems
+RAG Pipelines	&#9608;&#9608;&#9608;&#9608;&#9608; Expert	LangChain, FAISS, Vector Stores, Dynamic Query Routing
+LLM Integration	&#9608;&#9608;&#9608;&#9608;&#9608; Expert	OpenAI API, Claude API, Google Gemini, NVIDIA NIM, Ollama
+AI Product Eng	&#9608;&#9608;&#9608;&#9608;&#9607; Senior	Pydantic, REST APIs, Async Operations, Fallback Architecture
+Machine Learning	&#9608;&#9608;&#9608;&#9608;&#9607; Senior	Scikit-learn, TensorFlow, BERT, Hugging Face
+Full Stack	&#9608;&#9608;&#9608;&#9608;&#9607; Senior	React, TypeScript, FastAPI, Streamlit
 
-> cd /featured-projects
+</div>
+
+> ls /projects --sort=impact
 ▶ AutoBrowse AI — Autonomous Web RPA & Lead Gen Crew
-▶ LumanGuide — Agentic RAG System
-> grep "experience"
-AI/ML Trainee | Technosavvys
-2023 – 2024
+▶ LumanGuide — Agentic RAG System & Contextual Team Navigator
+> cat experience.log
+[2023 → 2024] AI/ML Trainee — Technosavvys
 
 Engineered and optimized Retrieval-Augmented Generation (RAG) pipelines using LangChain and FAISS.
+
 Developed high-performance REST APIs using FastAPI to serve machine learning models.
 Integrated multiple LLM providers (OpenAI, Claude) into agentic workflows.
 Built interactive and responsive user interfaces using Streamlit.
 Implemented async database operations using MongoDB/Motor for non-blocking performance.
 Python LangChain FastAPI MongoDB Streamlit FAISS GenAI
 
-> grep "achievements"
-Recognition
-Details
-Project Launch	Successfully developed and deployed AutoBrowse AI, an enterprise-grade Agentic RPA system
-Certification	Completed "Building LLM Applications" from the NVIDIA Deep Learning Institute
-Academic	Graduated with a BCA in AI & Data Science
+> echo $ACHIEVEMENTS
+<div align="center">
 
+Win
+Detail
+&#9612; Project Launch	Successfully developed and deployed AutoBrowse AI, an enterprise-grade Agentic RPA system
+&#9612; Certification	Completed "Building LLM Applications" from the NVIDIA Deep Learning Institute
+&#9612; Academic	Graduated with a BCA in AI & Data Science
+
+</div>
+
+> git log --oneline /education
 <div align="center">
 <a href="#"><img src="https://img.shields.io/badge/BCA-AI%20%26%20Data%20Science-6355FF?style=for-the-badge&logo=googleclassroom&logoColor=white" /></a>
 </div>
 
-> git stats --user=Nilesh1735
+> git stats --global
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&hide_border=true&title_color=6355FF&icon_color=8A2BE2&text_color=ffffff&bg_color=151321" />
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh1735&hide_border=true&background=151321&stroke=6355FF&ring=8A2BE2&fire=C6FF3B&currStreakLabel=6355FF" />
-
-<!-- Top Languages Card -->
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilesh1735&layout=compact&hide_border=true&title_color=6355FF&text_color=ffffff&bg_color=151321" />
 
 </div>
 
-<br>
-
+> trophy-case --display
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
-<br>
-
+> activity-graph --timeline
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=react-dark&hide_border=true&area=true&color=6355FF&line=8A2BE2&point=C6FF3B" width="90%" />
 </div>
 
-<br>
-
-<!-- Contribution Snake Animation -->
+> ./snake-animation.sh
 <div align="center">
 <img src="https://raw.githubusercontent.com/Nilesh1735/Nilesh1735/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 > cat current-focus.yaml
+yaml
 
 learning:
-  - "Advanced Multi-Agent Orchestration"
-  - "LLM Fine-tuning & RAG Optimization"
+  - Agentic AI architectures & multi-agent orchestration
+  - LLM Fine-tuning & RAG Optimization
 
 building:
-  - "Enterprise-grade GenAI Pipelines"
-  - "Scalable AI Backend Architectures"
+  - AutoBrowse AI  # Autonomous Web RPA & Lead Gen Crew
+  - LumanGuide     # Agentic RAG System & Team Navigator
 
 exploring:
-  - "Autonomous AI Agents"
-  - "NVIDIA NIM Microservices"
+  - Real-time voice AI & low-latency LLM pipelines
+  - NVIDIA NIM Microservices
 
 open_to:
-  - "AI Engineer Roles"
-  - "GenAI Developer Positions"
-  - "Collaborations on RAG Pipelines"
-> establish_connection()
-
+  - AI Engineer Roles
+  - GenAI Developer Positions
+  - Collaborations on RAG Pipelines
+> ping me
 <div align="center">
 <a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -136,7 +145,7 @@ open_to:
 <br>
 
 <div align="center">
-<i>"Engineering intelligent systems that bridge the gap between data and decision."</i>
+<i>// by day: enterprise AI engineer | by night: shipping agentic systems & autonomous pipelines</i>
 </div>
 
 <br>
