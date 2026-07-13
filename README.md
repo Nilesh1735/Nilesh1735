@@ -108,11 +108,6 @@ Detail
 
 </div>
 
-> trophy-case --display
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
 > activity-graph --timeline
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=nord&hide_border=true&area=true&color=88c0d0&line=8fbcbb&point=d8dee9&bg_color=2e3440" width="90%" />
