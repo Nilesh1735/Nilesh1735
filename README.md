@@ -19,6 +19,7 @@
 </div>
 
 > whoami
+
 I am an AI/ML Engineer and GenAI Developer with a strong foundation in software engineering, specializing in building scalable, enterprise-grade intelligent systems. My expertise lies at the intersection of artificial intelligence, full-stack development, and product engineering.
 
 I architect robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain, LangGraph, and vector databases. With a product engineering mindset, I focus on deploying high-performance, resilient backend architectures that solve complex real-world problems.
