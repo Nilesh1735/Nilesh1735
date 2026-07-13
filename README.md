@@ -18,88 +18,129 @@
 <img src="https://img.shields.io/github/stars/Nilesh1735?label=Total%20Stars&style=flat-square&color=5e81ac" alt="Stars" />
 </div>
 
-> whoami
+
+### `> whoami`
 AI/ML Engineer specializing in building scalable, enterprise-grade intelligent systems. By day: architecting robust Retrieval-Augmented Generation (RAG) pipelines, agentic workflows, and AI-driven applications using LangChain and LangGraph. By night: building autonomous multi-agent systems and exploring local LLM architectures.
 
- $ cat .profileROLE        =  AI / ML Engineer | GenAI DeveloperEXP         =  BCA Graduate (AI & DS) | Former AI/ML TraineeDOMAIN      =  Artificial Intelligence  |  GenAI  |  Full StackSTACK       =  Python  |  LangChain  |  LangGraph  |  FastAPI  |  ReactAI_INFRA    =  FAISS  |  Ollama  |  NVIDIA NIM  |  TensorFlowLOCATION    =  IndiaOPEN_TO     =  AI Engineer Roles  +  GenAI Developer Positions
-> ls /tech-stack
-[ Languages ]
+```bash
+$ cat .profile
 
+ROLE        =  AI / ML Engineer | GenAI Developer
+EXP         =  BCA Graduate (AI & DS) | Former AI/ML Trainee
+DOMAIN      =  Artificial Intelligence  |  GenAI  |  Full Stack
+STACK       =  Python  |  LangChain  |  LangGraph  |  FastAPI  |  React
+AI_INFRA    =  FAISS  |  Ollama  |  NVIDIA NIM  |  TensorFlow
+LOCATION    =  India
+OPEN_TO     =  AI Engineer Roles  +  GenAI Developer Positions
+```
+
+### `> ls /tech-stack`
+
+**[ Languages ]**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql&theme=dark" />
 </div>
 
-[ AI / ML & Data ]
-
+**[ AI / ML & Data ]**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,sqlite&theme=dark" />
 </div>
 
-[ Backend & Data ]
-
+**[ Backend & Data ]**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis&theme=dark" />
 </div>
 
-[ Cloud, DevOps & Infra ]
-
+**[ Cloud, DevOps & Infra ]**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
 </div>
 
-> cat specialty-badges.sh
+### `> cat specialty-badges.sh`
 <div align="center">
-<img src="https://img.shields.io/badge/Agentic_AI-Expert-88c0d0?style=for-the-badge&logo=openai&logoColor=2e3440" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-8fbcbb?style=for-the-badge&logo=langchain&logoColor=2e3440" />
-<img src="https://img.shields.io/badge/LLMOps-Observability-d8dee9?style=for-the-badge&logo=datadog&logoColor=2e3440" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Expert-88c0d0?style=for-the-badge&logo=openai&logoColor=2e3440" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-8fbcbb?style=for-the-badge&logo=langchain&logoColor=2e3440" />
+  <img src="https://img.shields.io/badge/LLMOps-Observability-d8dee9?style=for-the-badge&logo=datadog&logoColor=2e3440" />
 </div>
 
-> cat expertise.json
+### `> cat expertise.json`
 <div align="center">
-
-Domain
-Proficiency
-Details
-Agentic AI	&#9608;&#9608;&#9608;&#9608;&#9608; Expert	LangGraph, CrewAI, ReAct Framework, Multi-Agent Systems
-RAG Pipelines	&#9608;&#9608;&#9608;&#9608;&#9608; Expert	LangChain, FAISS, Vector Stores, Dynamic Query Routing
-LLM Integration	&#9608;&#9608;&#9608;&#9608;&#9608; Expert	OpenAI API, Claude API, Google Gemini, NVIDIA NIM, Ollama
-AI Product Eng	&#9608;&#9608;&#9608;&#9608;&#9607; Senior	Pydantic, REST APIs, Async Operations, Fallback Architecture
-Machine Learning	&#9608;&#9608;&#9608;&#9608;&#9607; Senior	Scikit-learn, TensorFlow, BERT, Hugging Face
-Full Stack	&#9608;&#9608;&#9608;&#9608;&#9607; Senior	React, TypeScript, FastAPI, Streamlit
+ 
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Agentic AI** | &#9608;&#9608;&#9608;&#9608;&#9608; Expert | LangGraph, CrewAI, ReAct Framework, Multi-Agent Systems |
+| **RAG Pipelines** | &#9608;&#9608;&#9608;&#9608;&#9608; Expert | LangChain, FAISS, Vector Stores, Dynamic Query Routing |
+| **LLM Integration** | &#9608;&#9608;&#9608;&#9608;&#9608; Expert | OpenAI API, Claude API, Google Gemini, NVIDIA NIM, Ollama |
+| **AI Product Eng** | &#9608;&#9608;&#9608;&#9608;&#9607; Senior | Pydantic, REST APIs, Async Operations, Fallback Architecture |
+| **Machine Learning** | &#9608;&#9608;&#9608;&#9608;&#9607; Senior | Scikit-learn, TensorFlow, BERT, Hugging Face |
+| **Full Stack** | &#9608;&#9608;&#9608;&#9608;&#9607; Senior | React, TypeScript, FastAPI, Streamlit |
 
 </div>
 
-> ls /projects --sort=impact
-▶ AutoBrowse AI — Autonomous Web RPA & Lead Gen Crew
-▶ LumanGuide — Agentic RAG System & Contextual Team Navigator
-> cat experience.log
-[2023 → 2024] AI/ML Trainee — Technosavvys
+### `> ls /projects --sort=impact`
+
+<details open>
+<summary><b>&#9654; AutoBrowse AI &mdash; Autonomous Web RPA & Lead Gen Crew</b></summary>
+
+An enterprise-grade, full-stack Agentic AI application where a multi-agent crew (Researcher, Analyst, Manager) autonomously opens a headless browser, navigates dynamic web pages, extracts unstructured text, processes and scores the data using an NLP pipeline, and stores structured results in a relational database.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; CrewAI &middot; React/TS &middot; FastAPI &middot; Playwright &middot; MySQL |
+| **Scale** | Enterprise-level document processing and concurrent async request handling |
+| **Performance** | 3-Tier LLM fallback (Ollama -> OpenAI -> Gemini) with 120s hard timeout |
+| **Security** | Pydantic strict schema validation, non-blocking DB I/O |
+| **Impact** | Automates lead generation workflows end-to-end |
+| **Repo** | [View on GitHub](https://github.com/Nilesh1735) |
+
+</details>
+
+<details>
+<summary><b>&#9654; LumanGuide &mdash; Agentic RAG System & Contextual Team Navigator</b></summary>
+
+An enterprise-grade, intelligent Retrieval-Augmented Generation (RAG) system powered by agentic AI architecture. Features dynamic query routing, multi-source document retrieval, and a Contextual Team Navigator to streamline engineering onboarding and knowledge management.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; LangGraph &middot; FAISS &middot; MongoDB &middot; Streamlit |
+| **Scale** | Resilient fallback architecture with async DB I/O via asyncio |
+| **Performance** | Zero-latency numeric fast-path; non-blocking chat history |
+| **Security** | JWT Authentication, rate limiting ready, environment-secured keys |
+| **Impact** | Streamlines SME routing and onboarding knowledge retrieval |
+| **Repo** | [View on GitHub](https://github.com/Nilesh1735) |
+
+</details>
+
+### `> cat experience.log`
+
+**[2023 → 2024]** **AI/ML Trainee — Technosavvys**
 
 Engineered and optimized Retrieval-Augmented Generation (RAG) pipelines using LangChain and FAISS.
 
-Developed high-performance REST APIs using FastAPI to serve machine learning models.
-Integrated multiple LLM providers (OpenAI, Claude) into agentic workflows.
-Built interactive and responsive user interfaces using Streamlit.
-Implemented async database operations using MongoDB/Motor for non-blocking performance.
-Python LangChain FastAPI MongoDB Streamlit FAISS GenAI
+- Developed high-performance REST APIs using FastAPI to serve machine learning models.
+- Integrated multiple LLM providers (OpenAI, Claude) into agentic workflows.
+- Built interactive and responsive user interfaces using Streamlit.
+- Implemented async database operations using MongoDB/Motor for non-blocking performance.
 
-> echo $ACHIEVEMENTS
+`Python` `LangChain` `FastAPI` `MongoDB` `Streamlit` `FAISS` `GenAI`
+
+### `> echo $ACHIEVEMENTS`
 <div align="center">
 
-Win
-Detail
-&#9612; Project Launch	Successfully developed and deployed AutoBrowse AI, an enterprise-grade Agentic RPA system
-&#9612; Certification	Completed "Building LLM Applications" from the NVIDIA Deep Learning Institute
-&#9612; Academic	Graduated with a BCA in AI & Data Science
+| Win | Detail |
+| :--- | :--- |
+| &#9612; **Project Launch** | Successfully developed and deployed AutoBrowse AI, an enterprise-grade Agentic RPA system |
+| &#9612; **Certification** | Completed "Building LLM Applications" from the NVIDIA Deep Learning Institute |
+| &#9612; **Academic** | Graduated with a BCA in AI & Data Science |
 
 </div>
 
-> git log --oneline /education
+### `> git log --oneline /education`
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/BCA-AI%20%26%20Data%20Science-88c0d0?style=for-the-badge&logo=googleclassroom&logoColor=2e3440" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BCA-AI%20%26%20Data%20Science-88c0d0?style=for-the-badge&logo=googleclassroom&logoColor=2e3440" /></a>
 </div>
 
-> git stats --global
+### `> git stats --global`
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&hide_border=true&title_color=88c0d0&icon_color=8fbcbb&text_color=d8dee9&bg_color=2e3440" />
@@ -108,56 +149,63 @@ Detail
 
 </div>
 
-> activity-graph --timeline
+### `> trophy-case --display`
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=nord&hide_border=true&area=true&color=88c0d0&line=8fbcbb&point=d8dee9&bg_color=2e3440" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nilesh1735&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
-> contribution-report --detailed
+### `> activity-graph --timeline`
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh1735&theme=nord_dark" width="90%" />
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilesh1735&theme=nord_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nilesh1735&theme=nord_dark" />
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nilesh1735&theme=nord_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nilesh1735&theme=nord_dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=nord&hide_border=true&area=true&color=88c0d0&line=8fbcbb&point=d8dee9&bg_color=2e3440" width="90%" />
 </div>
 
-> ./snake-animation.sh
+### `> contribution-report --detailed`
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nilesh1735/Nilesh1735/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilesh1735&theme=nord_dark" width="90%" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilesh1735&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nilesh1735&theme=nord_dark" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nilesh1735&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nilesh1735&theme=nord_dark" />
 </div>
 
-> cat current-focus.yaml
-  learning:
+### `> ./snake-animation.sh`
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nilesh1735/Nilesh1735/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+### `> cat current-focus.yaml`
+```yaml
+learning:
   - Agentic AI architectures & multi-agent orchestration
   - LLM Fine-tuning & RAG Optimization
 
-  building:
+building:
   - AutoBrowse AI  # Autonomous Web RPA & Lead Gen Crew
   - LumanGuide     # Agentic RAG System & Team Navigator
 
-  exploring:
+exploring:
   - Real-time voice AI & low-latency LLM pipelines
   - NVIDIA NIM Microservices
 
-  open_to:
+open_to:
   - AI Engineer Roles
   - GenAI Developer Positions
   - Collaborations on RAG Pipelines
+```
 
-> ping me
+### `> ping me`
 <div align="center">
-<a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
 
 <div align="center">
-<i>// by day: enterprise AI engineer | by night: shipping agentic systems & autonomous pipelines</i>
+  <i>// by day: enterprise AI engineer  |  by night: shipping agentic systems & autonomous pipelines</i>
 </div>
 
 <br>
