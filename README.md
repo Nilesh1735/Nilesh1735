@@ -33,40 +33,17 @@ Open To:
 
 🛠️ Tech Stack
 <div align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,tensorflow,postgres&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,mongodb,sqlite&theme=dark" />
+</div>
 
-Languages
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
-<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+<br>
 
-
-
-
-Frontend
-<img src="https://skillicons.dev/icons?i=react" alt="React" />
-<img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" />
-<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-
-
-
-
-Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-
-
-
-
-Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=git" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-
+<div align="center">
+<img src="https://img.shields.io/badge/Agentic_AI-Expert-6355FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMOps-Observability-C6FF3B?style=for-the-badge&logo=datadog&logoColor=black" />
 </div>
 
 🧠 AI / ML Expertise
