@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/BCA%20Graduate-AI%20%26%20DS-88c0d0?style=flat-square&logoColor=2e3440" alt="Academic" />
 <img src="https://img.shields.io/badge/Location-India-8fbcbb?style=flat-square&logo=googlemaps&logoColor=2e3440" alt="Location" />
 <br><br>
-<a href="[https://portfolio-nilesh-pied.vercel.app/]"><img src="https://img.shields.io/badge/Portfolio-View-88c0d0?style=for-the-badge&logo=vercel&logoColor=2e3440" alt="Portfolio" /></a>
+<a href="https://portfolio-nilesh-pied.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-88c0d0?style=for-the-badge&logo=vercel&logoColor=2e3440" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5e81ac?style=for-the-badge&logo=linkedin&logoColor=eceff4" alt="LinkedIn" /></a>
 <a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8fbcbb?style=for-the-badge&logo=gmail&logoColor=2e3440" alt="Email" /></a>
 <a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-2e3440?style=for-the-badge&logo=github&logoColor=eceff4" alt="GitHub" /></a>
