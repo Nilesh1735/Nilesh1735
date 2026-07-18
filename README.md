@@ -1,5 +1,5 @@
 <a href="[https://github.com/Nilesh1735]">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3440,100:88c0d0&height=260&section=header&text=Nilesh%20Raj&desc=%0AAI%2FML%20Engineer%20%7C%20GenAI%20Developer&animation=twinkling&fontColor=eceff4&descColor=8fbcbb&fontSize=42&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3440,100:88c0d0&height=260&section=header&text=Nilesh%20Raj&desc=%0AAI Engineer%20%7C%20GenAI%20Developer&animation=twinkling&fontColor=eceff4&descColor=8fbcbb&fontSize=42&descSize=18" width="100%" />
 </a>
 
 <div align="center">
