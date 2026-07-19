@@ -1,6 +1,19 @@
-<a href="[https://github.com/Nilesh1735]">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3440,100:88c0d0&height=260&section=header&text=Nilesh%20Raj&desc=%0AAI Engineer%20%7C%20GenAI%20Developer&animation=twinkling&fontColor=eceff4&descColor=8fbcbb&fontSize=42&descSize=18" width="100%" />
-</a>
+I apologize for that! The formatting made it hard to copy. 
+
+Here is the exact code you need to paste into your `README.md` file. 
+
+Click the `README.md` file in VS Code, delete everything inside it, and copy/paste exactly this:
+
+```markdown
+<div align="center">
+
+<h3><code>nilesh@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Live Contribution Heatmap" />
+
+</div>
+```
+
+
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer;GenAI+Developer;RAG+Pipeline+Architect;LangChain+%7C+LangGraph+%7C+FAISS" alt="Typing SVG" />
