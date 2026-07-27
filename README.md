@@ -157,7 +157,7 @@ Engineered and optimized Retrieval-Augmented Generation (RAG) pipelines using La
 ### `> git stats --global`
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=58A6FF&text_color=f0f6fc" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilesh1735&theme=github-dark-blue&hide_border=true&background=0D1117&ring=10B981&fire=58A6FF&currStreakLabel=10B981" width="400" />
+<img src="https://streak-stats.demolab.com/?user=Nilesh1735&theme=github-dark-blue&hide_border=true&background=0D1117&ring=10B981&fire=58A6FF&currStreakLabel=10B981" width="400" />
 <br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=github-compact&hide_border=true&area=true&color=10B981&line=58A6FF&point=f0f6fc&bg_color=0d1117" width="90%" />
 </div>
