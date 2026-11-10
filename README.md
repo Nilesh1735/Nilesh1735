@@ -8,20 +8,20 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Founder+%26+AI+Engineer;AgentNine+%7C+agentnine.pro;RAG+%26+Agentic+Pipelines;LangGraph+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=dd0200&center=true&vCenter=true&random=false&width=600&lines=Founder+%26+AI+Engineer;AgentNine+%7C+agentnine.pro;RAG+%26+Agentic+Pipelines;LangGraph+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
 <br><br>
-<img src="https://img.shields.io/badge/BCA%20Graduate-Artificial%20Intelligence-10b981?style=flat-square&logoColor=0d1117" alt="Academic" />
-<img src="https://img.shields.io/badge/Location-India-3fb950?style=flat-square&logo=googlemaps&logoColor=0d1117" alt="Location" />
+<img src="https://img.shields.io/badge/BCA%20Graduate-Artificial%20Intelligence-dd0200?style=flat-square&logoColor=090a0c" alt="Academic" />
+<img src="https://img.shields.io/badge/Location-India-f5f1ea?style=flat-square&logo=googlemaps&logoColor=090a0c" alt="Location" />
 <br><br>
-<a href="https://nileshraj.pro/"><img src="https://img.shields.io/badge/Portfolio-View-10b981?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
+<a href="https://nileshraj.pro"><img src="https://img.shields.io/badge/Portfolio-View-f5f1ea?style=for-the-badge&logo=vercel&logoColor=090a0c" alt="Portfolio" /></a>
 <a href="https://agentnine.pro"><img src="https://img.shields.io/badge/AgentNine-Live-dd0200?style=for-the-badge&logoColor=white" alt="AgentNine" /></a>
-<a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-3fb950?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
-<a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff5a4d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-f5f1ea?style=for-the-badge&logo=gmail&logoColor=090a0c" alt="Email" /></a>
+<a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-090a0c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Nilesh1735&label=Profile%20Views&color=10b981&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Nilesh1735?label=Followers&style=flat-square&color=3fb950" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Nilesh1735?label=Total%20Stars&style=flat-square&color=58a6ff" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Nilesh1735&label=Profile%20Views&color=dd0200&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Nilesh1735?label=Followers&style=flat-square&color=f5f1ea" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Nilesh1735?label=Total%20Stars&style=flat-square&color=ff5a4d" alt="Stars" />
 </div>
 
 ### `> whoami`
@@ -76,9 +76,9 @@ OPEN_TO     =  AI/ML Engineer Roles  +  Forward Deployed Positions
 
 ### `> cat specialty-badges.sh`
 <div align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI-Expert-10b981?style=for-the-badge&logo=openai&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/Forward_Deployed-FDE-3fb950?style=for-the-badge&logo=docker&logoColor=0d1117" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-58a6ff?style=for-the-badge&logo=langchain&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Expert-dd0200?style=for-the-badge&logo=openai&logoColor=090a0c" />
+  <img src="https://img.shields.io/badge/Forward_Deployed-FDE-f5f1ea?style=for-the-badge&logo=docker&logoColor=090a0c" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-ff5a4d?style=for-the-badge&logo=langchain&logoColor=090a0c" />
 </div>
 
 ### `> cat expertise.json`
@@ -184,15 +184,15 @@ Fine-tuned a BERT classifier on 500+ student course reviews with Hugging Face an
 
 ### `> git log --oneline /education`
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/BCA-Artificial%20Intelligence%20(IBM)-10b981?style=for-the-badge&logo=googleclassroom&logoColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BCA-Artificial%20Intelligence%20(IBM)-dd0200?style=for-the-badge&logo=googleclassroom&logoColor=090a0c" /></a>
 </div>
 
 ### `> git stats --global`
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=58A6FF&text_color=f0f6fc" width="400" />
-<img src="https://streak-stats.demolab.com/?user=Nilesh1735&theme=github-dark-blue&hide_border=true&background=0D1117&ring=10B981&fire=58A6FF&currStreakLabel=10B981" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nilesh1735&show_icons=true&theme=github_dark&hide_border=true&bg_color=090a0c&title_color=dd0200&icon_color=ff5a4d&text_color=f5f1ea" width="400" />
+<img src="https://streak-stats.demolab.com/?user=Nilesh1735&theme=github-dark-blue&hide_border=true&background=090a0c&ring=dd0200&fire=ff5a4d&currStreakLabel=dd0200&stroke=2a2c30&currStreakNum=f5f1ea&sideNums=f5f1ea&sideLabels=f5f1ea&dates=8b8d91" width="400" />
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=github-compact&hide_border=true&area=true&color=10B981&line=58A6FF&point=f0f6fc&bg_color=0d1117" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilesh1735&theme=github-compact&hide_border=true&area=true&color=dd0200&line=ff5a4d&point=f5f1ea&bg_color=090a0c" width="90%" />
 </div>
 
 ### `> ./snake-animation.sh`
@@ -239,5 +239,5 @@ open_to:
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:10b981&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:090a0c,100:dd0200&height=120&section=footer" width="100%" />
 </div>
