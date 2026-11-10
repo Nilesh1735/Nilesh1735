@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h3><code>nilesh@github ~ $ ./contributions.sh</code></h3>
@@ -9,12 +8,13 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%7C+FDE;Forward+Deployed+AI+Architect;RAG+%26+Agentic+Pipelines;LangGraph+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=22&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=600&lines=Founder+%26+AI+Engineer;AgentNine+%7C+agentnine.pro;RAG+%26+Agentic+Pipelines;LangGraph+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
 <br><br>
-<img src="https://img.shields.io/badge/BCA%20Graduate-AI%20%26%20DS-10b981?style=flat-square&logoColor=0d1117" alt="Academic" />
+<img src="https://img.shields.io/badge/BCA%20Graduate-Artificial%20Intelligence-10b981?style=flat-square&logoColor=0d1117" alt="Academic" />
 <img src="https://img.shields.io/badge/Location-India-3fb950?style=flat-square&logo=googlemaps&logoColor=0d1117" alt="Location" />
 <br><br>
 <a href="https://nileshraj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View-10b981?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
+<a href="https://agentnine.pro"><img src="https://img.shields.io/badge/AgentNine-Live-dd0200?style=for-the-badge&logoColor=white" alt="AgentNine" /></a>
 <a href="https://www.linkedin.com/in/nilesh-raj-nr1735/"><img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:nileshraj1735@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-3fb950?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
 <a href="https://github.com/Nilesh1735"><img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -25,16 +25,16 @@
 </div>
 
 ### `> whoami`
-AI/ML Engineer & Forward Deployed Engineer (FDE) delivering production-grade agentic AI applications and ML pipelines directly to client environments. I bridge the gap between complex AI architecture (LangGraph, BERT, PyTorch) and client-facing deployment (Docker, FastAPI), shipping secure, scalable microservices that stakeholders can actually use.
+Founder and AI engineer. I build and ship AI systems end to end, from architecture to live deployment: agentic systems, RAG pipelines and fine-tuned transformers. I run [AgentNine](https://agentnine.pro), a live directory of open-source AI agents, and have shipped CrewAI multi-agent platforms, LangGraph RAG pipelines and BERT classifiers. I treat JWT RBAC, rate limiting and observability as seriously as prompt design and model accuracy.
 
 ```bash
 $ cat .profile
 
-ROLE        =  AI/ML Engineer | Forward Deployed Engineer (FDE)
-EXP         =  BCA Graduate (AI & DS) | Former AI/ML Trainee
-DOMAIN      =  Generative AI  |  Agentic Workflows  |  MLOps
-STACK       =  Python  |  LangGraph  |  CrewAI  |  FastAPI  |  Docker
-AI_INFRA    =  FAISS  |  Mistral/OpenAI  |  MongoDB  |  Redis
+ROLE        =  Founder & AI Engineer @ AgentNine
+EXP         =  Founder (Jun 2026 - now)  |  Ex AI/ML Trainee  |  BCA (AI)
+DOMAIN      =  Agentic Workflows  |  RAG  |  Fine-tuned NLP  |  Web Products
+STACK       =  Python  |  LangGraph  |  CrewAI  |  FastAPI  |  Next.js  |  Docker
+AI_INFRA    =  FAISS  |  Mistral / DeepSeek / Gemini / OpenAI  |  MongoDB  |  Redis  |  Supabase
 LOCATION    =  India
 OPEN_TO     =  AI/ML Engineer Roles  +  Forward Deployed Positions
 ```
@@ -57,17 +57,21 @@ OPEN_TO     =  AI/ML Engineer Roles  +  Forward Deployed Positions
   <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistral&logoColor=white" alt="Mistral" />
 </div>
 
+**[ Product & Web ]**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase,vercel&theme=dark" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+</div>
+
 **[ Backend, DB & Infra ]**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,docker,mongodb,redis,postgres,mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </div>
 
 **[ Cloud & DevOps ]**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,githubactions,git&theme=dark" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
 ### `> cat specialty-badges.sh`
@@ -83,26 +87,44 @@ OPEN_TO     =  AI/ML Engineer Roles  +  Forward Deployed Positions
 | Domain | Details |
 | :--- | :--- |
 | **Agentic AI** | LangGraph, CrewAI, Multi-Agent Systems, ReAct Framework |
-| **RAG & Enrichment** | LangChain, FAISS, Snov.io API, Dynamic Query Routing |
-| **LLM Integration** | Mistral AI, OpenAI, Google Gemini, NVIDIA NIM, Ollama |
-| **Deployment (FDE)** | Docker, FastAPI, Render, Vercel, WebSocket Telemetry |
-| **Machine Learning** | Scikit-learn, PyTorch, BERT, Hugging Face |
-| **AppSec** | JWT RBAC, Prompt Injection Guardrails, Secret Scanning |
+| **RAG & Enrichment** | LangChain, FAISS, Snov.io API, Dynamic Query Routing, LangSmith |
+| **LLM Integration** | Mistral AI, DeepSeek, OpenAI, Google Gemini, NVIDIA NIM, Ollama |
+| **Product & Web** | Next.js, React, TypeScript, Tailwind CSS, Supabase, Vitest |
+| **Deployment** | Docker, FastAPI, Render, Vercel, WebSocket Telemetry |
+| **Machine Learning** | Scikit-learn, PyTorch, BERT, Hugging Face, Fine-tuning |
+| **AppSec** | JWT RBAC, SSRF Protection, Prompt Injection Guardrails, Secret Scanning |
 
 </div>
 
 ### `> ls /projects --sort=impact`
 
 <details open>
-<summary><b>&#9654; OMNICREW AI &mdash; Autonomous Web Extraction & Enrichment Platform</b></summary>
+<summary><b>&#9654; AgentNine | Open-Source AI Agent Directory</b></summary>
 
-An enterprise-grade, full-stack Agentic AI platform where a multi-agent crew (Researcher, Analyst) autonomously scrapes web data, structures it, and enriches it using third-party APIs. Built with a resilient backend architecture and real-time observability.
+A live directory of open-source AI agents with 110+ listings across coding, automation, research and content. Each listing shows its source repository, install steps for Windows, macOS and Linux, the access it requests, and what is still undocumented.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; CrewAI &middot; FastAPI &middot; React/TS &middot; Docker &middot; Redis |
-| **AI & Enrichment** | 3-Tier LLM routing (Mistral→OpenAI), Snov.io API for B2B email enrichment |
+| **Stack** | Next.js App Router &middot; React 19 &middot; TypeScript &middot; Tailwind CSS &middot; Supabase Postgres &middot; Vitest |
+| **Browse** | Category filters, OS and API-key facets, Fuse.js full-text search, side-by-side comparison of three agents with no account |
+| **Verification** | Five-step setup check: exact commit reviewed, operating systems checked, install command, a first task actually run, and the date |
+| **Deployment** | Vercel |
+| **Live** | [agentnine.pro](https://agentnine.pro) |
+
+</details>
+
+<details>
+<summary><b>&#9654; OMNICREW AI | Autonomous Web Extraction & Enrichment Platform</b></summary>
+
+A full-stack agentic platform where a multi-agent crew (Researcher, Analyst) scrapes web data, structures it, and enriches it through third-party APIs. Built with a resilient backend and real-time observability.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; CrewAI &middot; LangChain &middot; FastAPI &middot; React/TS &middot; Docker &middot; Redis |
+| **AI & Enrichment** | 3-tier LLM fallback router (DeepSeek, Mistral AI, Gemini) with 99.9% task completion on real-time extraction, Snov.io API for B2B email enrichment |
+| **Performance** | Redis MD5 caching of LLM responses cuts latency from 2.5s to under 50ms on cache hits; MD5 deduplication with INSERT IGNORE cut redundant writes by ~35% |
 | **Backend** | MySQL (Aiven) for leads, Upstash Redis for zero-cost caching, JWT user data isolation |
+| **Security** | SSRF blocking: target URLs are resolved and private, local and cloud-metadata IP ranges are rejected before any fetch |
 | **Frontend** | Next.js 16 with GSAP/Lenis smooth scrolling, live WebSocket telemetry feeds |
 | **Deployment** | Frontend on Vercel, Backend on Render, containerized via Docker |
 | **Repo** | [View on GitHub](https://github.com/Nilesh1735/OMNICREW-AI) |
@@ -110,48 +132,59 @@ An enterprise-grade, full-stack Agentic AI platform where a multi-agent crew (Re
 </details>
 
 <details>
-<summary><b>&#9654; LumanGuide &mdash; Enterprise Agentic RAG System & Team Navigator</b></summary>
+<summary><b>&#9654; LumanGuide | Agentic RAG System & Team Navigator</b></summary>
 
-An enterprise-grade, intelligent Retrieval-Augmented Generation (RAG) system powered by a LangGraph state machine. Features a premium split-screen SaaS UI, live agent telemetry, and robust AppSec measures for secure client deployment.
+An agentic RAG system built on a LangGraph state machine, with a split-screen UI, live agent telemetry, and AppSec measures for secure client deployment.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; LangGraph &middot; FAISS &middot; MongoDB Atlas &middot; Streamlit |
-| **AI Architecture** | Dynamic 3-Tier LLM Router (Mistral/OpenAI/Gemini), Tavily web search integration |
-| **UI/UX** | Premium dark emerald theme, Space Grotesk typography, rotating telemetry terminal |
-| **Backend** | FastAPI, MongoDB Atlas (Motor) for persistent chat history & auth |
-| **Security** | JWT RBAC, Prompt Injection Guardrails, automated Secret Scanning |
+| **Stack** | Python &middot; LangGraph &middot; FAISS &middot; FastAPI &middot; MongoDB Atlas &middot; LangSmith &middot; Streamlit |
+| **AI Architecture** | Document grading and query routing cut retrieval latency by 30% against a naive RAG baseline; Tavily web search as a fallback |
+| **Retrieval Loop** | An LLM-as-judge node scores retrieval quality and sends weak results to a rewrite node that loops back |
+| **Vector Store** | FAISS with semantic chunking for sub-second retrieval |
+| **Backend** | Auth moved from SQLite to MongoDB Atlas (Motor), which ended the data-wipe incidents; persistent chat history |
+| **Security** | Prompt-injection guardrails, JWT RBAC, regex secret scanning that redacts credentials before anything reaches the vector store |
 | **Repo** | [View on GitHub](https://github.com/Nilesh1735/LumanGuide-Onboarding-Illuminated) |
 
 </details>
 
 ### `> cat experience.log`
 
-**[Feb - May 2026]** **AI/ML Trainee — Technosavvys Education Technology**
+**[Jun 2026 - Present]** **Founder and AI Engineer | AgentNine**
 
-Engineered and optimized Retrieval-Augmented Generation (RAG) pipelines using LangChain and FAISS.
+Built and launched agentnine.pro, a directory of open-source AI agents, and lead product and technical decisions with a small team.
 
-- Developed high-performance REST APIs using FastAPI to serve machine learning models.
-- Integrated multiple LLM providers (OpenAI, Claude) into agentic workflows.
-- Built interactive and responsive user interfaces using Streamlit.
-- Implemented async database operations using MongoDB/Motor for non-blocking performance.
+- Built the product on Next.js App Router, React 19, TypeScript and Tailwind CSS, with Supabase Postgres for auth and data, a Vitest suite, and deployment on Vercel.
+- Designed the browse experience: category filters, OS and API-key facets, Fuse.js search, and three-way comparison without an account.
+- Defined the five-step setup check behind each listing and grew the catalogue past 110 agents.
 
-`Python` `LangChain` `FastAPI` `MongoDB` `Streamlit` `FAISS` `GenAI`
+`Next.js` `React` `TypeScript` `Supabase` `Tailwind` `Vitest` `Vercel`
+
+**[Feb - May 2026]** **AI/ML Trainee | Technosavvys Education Technology**
+
+Fine-tuned a BERT classifier on 500+ student course reviews with Hugging Face and turned it into something non-technical staff could use.
+
+- Reached 88% accuracy, a 15% lift over the TF-IDF baseline, using learning-rate scheduling and dropout tuning.
+- Shipped a Streamlit dashboard backed by SQLite that cut report generation for 10+ mentors across 5+ courses from hours to minutes.
+- Rewrote the NLP preprocessing pipeline (text normalisation, feature extraction), which removed manual data entry from the weekly reporting workflow.
+
+`Python` `BERT` `Hugging Face` `Streamlit` `SQLite` `NLP`
 
 ### `> echo $ACHIEVEMENTS`
 <div align="center">
 
 | Win | Detail |
 | :--- | :--- |
-| &#9612; **Project Launch** | Successfully deployed OMNICREW AI & LumanGuide to production (Render/Vercel) |
-| &#9612; **Certification** | Completed "Building LLM Applications" from the NVIDIA Deep Learning Institute |
-| &#9612; **Academic** | Graduated with a BCA in AI & Data Science |
+| &#9612; **Founded** | Launched AgentNine (agentnine.pro) with 110+ open-source AI agents listed |
+| &#9612; **Project Launch** | Deployed OMNICREW AI & LumanGuide to production (Render/Vercel) |
+| &#9612; **Certification** | Completed "Building LLM Applications with Prompt Engineering" from the NVIDIA Deep Learning Institute |
+| &#9612; **Academic** | Graduated with a BCA in Artificial Intelligence (IBM Specialization) |
 
 </div>
 
 ### `> git log --oneline /education`
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/BCA-AI%20%26%20Data%20Science-10b981?style=for-the-badge&logo=googleclassroom&logoColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/BCA-Artificial%20Intelligence%20(IBM)-10b981?style=for-the-badge&logo=googleclassroom&logoColor=0d1117" /></a>
 </div>
 
 ### `> git stats --global`
@@ -169,13 +202,16 @@ Engineered and optimized Retrieval-Augmented Generation (RAG) pipelines using La
 
 ### `> cat current-focus.yaml`
 ```yaml
+building:
+  - AgentNine   # open-source AI agent directory, growing the catalogue and verification
+
+shipped:
+  - OMNICREW AI # multi-agent web extraction and enrichment
+  - LumanGuide  # agentic RAG on LangGraph and MongoDB Atlas
+
 learning:
   - Agentic AI architectures & multi-agent orchestration
   - LLM Fine-tuning & RAG Optimization
-
-building:
-  - OMNICREW AI  # Autonomous Web RPA & Snov.io Email Enrichment
-  - LumanGuide   # Enterprise RAG with LangGraph & MongoDB Atlas
 
 exploring:
   - Real-time voice AI & low-latency LLM pipelines
@@ -197,7 +233,7 @@ open_to:
 <br>
 
 <div align="center">
-  <i>by day: enterprise AI engineer  |  by night: shipping agentic systems & autonomous pipelines</i>
+  <i>building AgentNine | shipping agentic systems and RAG pipelines</i>
 </div>
 
 <br>
@@ -205,4 +241,3 @@ open_to:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,100:10b981&height=120&section=footer" width="100%" />
 </div>
-```
